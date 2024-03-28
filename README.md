@@ -16,3 +16,7 @@ the function and run automatically when you commit through a GitHub action.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+
+## Answer
+In the worst case for my code the program has to iterate through all of the verticies and edges. This gives us a worst case compliexty of $\Theta (V + E)$ where V is number of verticies and E is number of edges.
